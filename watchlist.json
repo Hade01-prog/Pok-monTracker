@@ -1,6 +1,7 @@
 {
   "raw": [
-    { "id": "base1-4", "label": "Dracaufeu — Set de Base", "below": null, "above": null }
+    { "id": "base1-4", "label": "Dracaufeu — Set de Base", "below": null, "above": null },
+    { "id": "me02-125", "label": "Méga-Dracaufeu X-ex", "below": null, "above": null }
   ],
   "graded": [
     { "label": "Dracaufeu — Set de Base", "grade": "PSA 10", "below": null, "above": null }

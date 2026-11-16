@@ -115,7 +115,7 @@ fetch("data/history.json?" + Date.now()).then(r => r.json()).then(h => {
     .map(([key, v]) => ({ key, ...v }));
   const last = items.flatMap(i => i.series.map(p => p[0])).sort().pop();
   document.getElementById("meta").textContent = last
-    ? "Dernière mise à jour : " + dateFr(last) + ". Les prix gradés sont des dollars convertis en euros."
+    ? "Dernière mise à jour : " + dateFr(last) + ". Cartes gradées : dernières ventes réussies saisies à la main."
     : "Pas encore de données.";
   render();
 }).catch(() => {

@@ -1,0 +1,10 @@
+{
+  "raw": [
+    { "id": "base1-4", "label": "Dracaufeu — Set de Base", "below": null, "above": null },
+    { "id": "sv3pt5-199", "label": "Exemple : remplace par ta carte", "below": 10, "above": null }
+  ],
+  "graded": [
+    { "tcgPlayerId": "83356", "label": "Charizard Base Set", "grade": "PSA 10", "below": null, "above": null },
+    { "tcgPlayerId": "83356", "label": "Charizard Base Set", "grade": "PSA 9", "below": null, "above": null }
+  ]
+}
